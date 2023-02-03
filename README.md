@@ -1,6 +1,6 @@
 # Go API client for Financial Modeling Prep (fmpcloud.io)
 
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/spacecodewor/fmpcloud-go) ![GitHub](https://img.shields.io/github/license/spacecodewor/fmpcloud-go) ![GitHub go.mod Go version](https://img.shields.io/github/go-mod/go-version/spacecodewor/fmpcloud-go) [![Go Report Card](https://goreportcard.com/badge/github.com/spacecodewor/fmpcloud-go)](https://goreportcard.com/report/github.com/spacecodewor/fmpcloud-go)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/FrankDMartinez/fmpcloud-go) ![GitHub](https://img.shields.io/github/license/FrankDMartinez/fmpcloud-go) ![GitHub go.mod Go version](https://img.shields.io/github/go-mod/go-version/FrankDMartinez/fmpcloud-go) [![Go Report Card](https://goreportcard.com/badge/github.com/FrankDMartinez/fmpcloud-go)](https://goreportcard.com/report/github.com/FrankDMartinez/fmpcloud-go)
 
 ## Overview
 
@@ -37,7 +37,7 @@
 ## Installation
 
 ```sh
-go get -u github.com/spacecodewor/fmpcloud-go
+go get -u github.com/FrankDMartinez/fmpcloud-go
 ```
 
 Example:
@@ -130,4 +130,4 @@ Historical candles support (count) (Daily from 1980):
 
 ## License
 
-[MIT](https://github.com/spacecodewor/fmpcloud-go/blob/master/LICENSE)
+[MIT](https://github.com/FrankDMartinez/fmpcloud-go/blob/master/LICENSE)

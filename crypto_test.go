@@ -4,7 +4,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/spacecodewor/fmpcloud-go/objects"
+	"github.com/FrankDMartinez/fmpcloud-go/objects"
 )
 
 func TestCryptoAvalibleSymbols(t *testing.T) {

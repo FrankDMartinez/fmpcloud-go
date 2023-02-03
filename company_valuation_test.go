@@ -4,8 +4,8 @@ import (
 	"testing"
 	"time"
 
+	"github.com/FrankDMartinez/fmpcloud-go/objects"
 	"github.com/jinzhu/now"
-	"github.com/spacecodewor/fmpcloud-go/objects"
 )
 
 // Varibles for test check cases

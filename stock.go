@@ -5,9 +5,9 @@ import (
 	"strings"
 	"time"
 
+	"github.com/FrankDMartinez/fmpcloud-go/objects"
 	"github.com/gocarina/gocsv"
 	jsoniter "github.com/json-iterator/go"
-	"github.com/spacecodewor/fmpcloud-go/objects"
 )
 
 // Url const for request
